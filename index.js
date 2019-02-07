@@ -175,5 +175,5 @@ bot.on("message", async message => {
         
   
 
-bot.login("NTM0MTIyMDc0NTc5NjY0ODk2.Dz4bPw.qUTmjhvp9entcsiIblOXGh3PonI");
+bot.login("NTM0MTIyTc5NjY0ODk2.Pw.qjhvpIOXGh3PonI");
 //No one is reading this.. if so then Hi.
