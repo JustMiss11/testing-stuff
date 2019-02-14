@@ -10,3 +10,4 @@ module.exports.help = {
     name: "Name here",
     aliases: []
 }
+//restart ;)
